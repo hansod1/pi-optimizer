@@ -1,0 +1,9 @@
+## Interface: 120100
+## Title: PI Optimizer
+## Notes: Shows who would most likely have gained the most from Power Infusion on your last pull. Uses Bloodmallet PI sim data.
+## Author: Saille
+## Version: 1.0.0
+## SavedVariables: PIMeterDB
+
+Data.lua
+Core.lua
